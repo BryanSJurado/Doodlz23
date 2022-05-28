@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Doodlz</string>
+    <string name = "action_settings">Configuración</string>
+    <string name = "button_erase">Borrar Imagen</string>
+    <string name = "button_set_color">Asignar Color</string>
+    <string name = "button_set_line_width">Asignar Ancho de Linea</string>
+    <string name = "line_imageview_description">Mostrar Ancho de linea</string>
+    <string name = "label_alpha">Alpha</string>
+    <string name = "label_red"> Rojo</string>
+    <string name = "label_green">Verde</string>
+    <string name = "label_blue">Azul</string>
+    <string name = "menuitem_delete">Borrar Dibujo</string>
+    <string name = "menuitem_color">Color</string>
+    <string name = "menuitem_line_width">Ancho de Linea</string>
+    <string name = "menuitem_save">Guardar</string>
+    <string name = "menuitem_print">Imprimir</string>
+    <string name = "message_erase">¿Desea Borrar la Imagen?</string>
+    <string name = "message_error_saving">Hubo un Error al Guardar la Imagen</string>
+    <string name = "message_saved">La Imagen se ha Guardado Puede Verla en la Aplicación de Imagenes</string>
+    <string name = "message_error_printing">Su Dispositivo no Admite la Impresión</string>
+    <string name = "title_color_dialog">Escoger Color</string>
+    <string name = "title_line_width_dialog">Escoger Ancho de linea</string>
+    <string name = "permission_explanation">Para Guardar la Imagen, la Aplicación Requiere Permiso</string>
+</resources>
